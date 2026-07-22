@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net472</TargetFramework>
+		<LangVersion>latest</LangVersion>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Oracle.ManagedDataAccess" Version="23.26.200" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\DTO\DTO.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="System.Configuration" />
+	</ItemGroup>
+
+</Project>

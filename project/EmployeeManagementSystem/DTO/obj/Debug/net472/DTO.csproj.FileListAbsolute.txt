@@ -1,0 +1,10 @@
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\bin\Debug\net472\DTO.dll
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\bin\Debug\net472\DTO.pdb
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\obj\Debug\net472\DTO.csproj.AssemblyReference.cache
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\obj\Debug\net472\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\obj\Debug\net472\DTO.AssemblyInfoInputs.cache
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\obj\Debug\net472\DTO.AssemblyInfo.cs
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\obj\Debug\net472\DTO.csproj.CoreCompileInputs.cache
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\obj\Debug\net472\DTO.sourcelink.json
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\obj\Debug\net472\DTO.dll
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\obj\Debug\net472\DTO.pdb

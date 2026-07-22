@@ -1,0 +1,13 @@
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DAL\bin\Debug\net8.0\DAL.dll
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DAL\bin\Debug\net8.0\DAL.pdb
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DAL\obj\Debug\net8.0\DAL.dll
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DAL\obj\Debug\net8.0\DAL.pdb
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DAL\obj\Debug\net8.0\DAL.sourcelink.json

@@ -1,0 +1,11 @@
+D:\BaoMatCSDL\project\EmployeeManagementSystem\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\BaoMatCSDL\project\EmployeeManagementSystem\BLL\bin\Debug\net8.0\BLL.dll
+D:\BaoMatCSDL\project\EmployeeManagementSystem\BLL\bin\Debug\net8.0\BLL.pdb
+D:\BaoMatCSDL\project\EmployeeManagementSystem\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaoMatCSDL\project\EmployeeManagementSystem\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\BaoMatCSDL\project\EmployeeManagementSystem\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\BaoMatCSDL\project\EmployeeManagementSystem\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\BaoMatCSDL\project\EmployeeManagementSystem\BLL\obj\Debug\net8.0\BLL.dll
+D:\BaoMatCSDL\project\EmployeeManagementSystem\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\BaoMatCSDL\project\EmployeeManagementSystem\BLL\obj\Debug\net8.0\BLL.pdb
+D:\BaoMatCSDL\project\EmployeeManagementSystem\BLL\obj\Debug\net8.0\ref\BLL.dll

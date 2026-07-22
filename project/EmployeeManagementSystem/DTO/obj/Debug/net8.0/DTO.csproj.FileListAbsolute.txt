@@ -1,0 +1,11 @@
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\bin\Debug\net8.0\DTO.dll
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\bin\Debug\net8.0\DTO.pdb
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\obj\Debug\net8.0\DTO.dll
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\obj\Debug\net8.0\DTO.pdb
+D:\BaoMatCSDL\project\EmployeeManagementSystem\DTO\obj\Debug\net8.0\ref\DTO.dll
