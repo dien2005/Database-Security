@@ -2,7 +2,7 @@
 
 This project is a comprehensive Employee Management System built with a 3-tier C# WinForms architecture, backed by an Oracle 19c database. Its primary focus is on implementing advanced, enterprise-grade database security techniques to protect sensitive HR and payroll data.
 
-## 🔐 5-Layer Database Security Architecture
+## 5-Layer Database Security Architecture
 
 This project stands out by implementing five distinct layers of Oracle database security, simulating a high-security enterprise environment:
 
@@ -25,14 +25,14 @@ This project stands out by implementing five distinct layers of Oracle database 
 5. **Immutable Audit Logging**
    - Utilizes Oracle Blockchain Tables (`system_audit_log`) to ensure audit trails cannot be altered or deleted, even by DBAs.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 * **Frontend:** C# Windows Forms (.NET Framework 4.7.2)
 * **Backend Architecture:** 3-Tier (DTO - Data Transfer Objects, DAL - Data Access Layer, BLL - Business Logic Layer)
 * **Database:** Oracle Database 19c (Enterprise Edition recommended for OLS)
 * **Data Access:** Oracle.ManagedDataAccess (ODP.NET)
 
-## 📂 Project Structure
+## Project Structure
 
 * `/database/`: Contains all SQL scripts for database initialization and security configuration.
   * `SYS_SETUP.sql`: System user and audit schema setup.
@@ -49,7 +49,7 @@ This project stands out by implementing five distinct layers of Oracle database 
   * `/EmployeeManagementSystem/`: WinForms UI components.
 * `/reports/`: Project documentation and reports.
 
-## 🚀 Setup & Installation
+## Setup & Installation
 
 ### 1. Database Setup
 1. You need an Oracle Database instance (Note: Oracle Express Edition (XE) does *not* support Oracle Label Security).
@@ -68,7 +68,7 @@ This project stands out by implementing five distinct layers of Oracle database 
 2. Update the `OracleDataSource` connection string in `App.config` if your Oracle listener is on a different host/port.
 3. Build and Run the application.
 
-## 👤 Demo Credentials
+## Demo Credentials
 
 *(Note: These are hardcoded for demonstration purposes only)*
 
